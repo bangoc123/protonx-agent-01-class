@@ -1,0 +1,24 @@
+[project]
+name = "a2a-langgraph-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk",
+    "asyncclick>=8.1.8",
+    "uvicorn",
+    "click>=8.1.8",
+    "httpx>=0.28.1",
+    "langchain-google-genai>=2.0.10",
+    "langgraph>=0.3.18",
+    "pydantic>=2.10.6",
+    "python-dotenv>=1.1.0",
+    "google-genai",
+    "langchain"
+]
+
+[tool.uv.workspace]
+members = [
+    "a2a-langgraph-langchain",
+]

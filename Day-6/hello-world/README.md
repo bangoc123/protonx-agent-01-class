@@ -1,3 +1,6 @@
+### Install uv
+pip install uv
+
 ### Install libraries
 
 uv pip sync pyproject.toml
