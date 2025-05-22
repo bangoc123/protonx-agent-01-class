@@ -1,6 +1,6 @@
 ### A2A Protocol + LangGraph
 
-![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/2e4263a0-36c7-11f0-942a-a32fda0d8c1e-Screenshot_2025_05_22_114227.png)
+![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/00f44750-36cd-11f0-a0e3-6fefe2bf1875-Screenshot_2025_05_22_122401.png)
 
 ## 🚀 Getting Started
 
